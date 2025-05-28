@@ -26,7 +26,7 @@ Equiview is an AI-powered stock analysis CLI tool that simulates the perspective
 1. Clone the repo:
 
 bash
-git clone https://github.com/yourusername/equiview
+git clone https://github.com/dev-sanidhya/equiview
 cd equiview
 
 2. Install dependencies:
@@ -121,7 +121,7 @@ These questions are answered using the Groq LLM with reference to the previously
 
 ## 📬 Contact
 
-Built by Atharva. For feedback, collaboration, or feature ideas, feel free to reach out!
+Built by Atharva & Sanidhya. For feedback, collaboration, or feature ideas, feel free to reach out!
 
 ---
 
