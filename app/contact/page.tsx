@@ -86,14 +86,14 @@ export default function ContactPage() {
       },
     },
     {
-      name: "Sarthk Kharwal",
+      name: "Vidisha Deswal",
       role: "Co-Founder & COO",
       image: "/founders/sarthk.jpg", // Replace with actual path
       bio: "Product strategist with expertise in financial markets and user experience design.",
       social: {
-        linkedin: "https://www.linkedin.com/in/sarthkkharwal/",
-        twitter: "https://x.com/SarthkKharwal",
-        github: "https://github.com/SarthkK",
+        linkedin: "https://www.linkedin.com/in/vidisha-deswal-b2722332b/",
+        twitter: "https://x.com/vidisha_deswal",
+        github: "https://github.com/vidishadeswal",
       },
     },
   ];
